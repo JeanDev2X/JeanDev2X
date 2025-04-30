@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, soy Jean Pierre
 
-<!--
-**JeanDev2X/JeanDev2X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero de Sistemas apasionado por el desarrollo backend con Java y tecnologías modernas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
+- ☕ **Java** (8 y 11)
+- 🌱 **Spring Boot** (Incluyendo programación reactiva con WebFlux)
+- 🛠 **Microservicios** con arquitectura moderna
+- 🐳 **Docker**
+- 📦 **MongoDB**, **Redis**
+- 📬 **Apache Kafka**
+- ☁️ Aprendiendo **Microsoft Azure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Actualmente aprendiendo
+- Azure (certificaciones **AZ-900** y **AZ-204**)
+- Prácticas DevOps para despliegues en la nube
+- Escalabilidad y resiliencia de microservicios
+
+## 💡 Proyectos
+Explora mis repositorios para ver cómo aplico estas tecnologías en proyectos prácticos.
+
+## 📫 Conéctate conmigo
+- ✉️ jhingx1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jean-pierre-huaringa-hurtado-25533067/
+
+---
+
+> *"El aprendizaje continuo es el camino hacia la excelencia."*
+
